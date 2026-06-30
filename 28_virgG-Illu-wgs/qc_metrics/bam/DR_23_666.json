@@ -1,0 +1,11 @@
+{
+  "sample": "DR_23_666",
+  "total_reads": 808696270,
+  "num_mapped": 785204554,
+  "percent_mapped": 97.1,
+  "num_duplicates": 110055972,
+  "percent_duplicates": 13.609061409421363,
+  "percent_properly_paired": 93.42,
+  "mean_depth": 36.66783092445591,
+  "covered_bases": 2356695352
+}

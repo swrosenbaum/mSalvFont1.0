@@ -1,0 +1,4 @@
+samtools sort -@43 \
+              -T /mnt/beegfs/scratch/sr221061/tmp/tempfile.bam \
+              -o /mnt/beegfs/scratch/sr221061/mSfon1.0/post-asm/07_naming/outputs/sorted/mapped.PT.bam \
+                 /mnt/beegfs/scratch/sr221061/mSfon1.0/post-asm/07_naming/outputs/sorted/unsorted.bam

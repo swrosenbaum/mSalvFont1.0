@@ -1,0 +1,2 @@
+sample	reads_before_filtering	reads_after_filtering	fraction_passed	total_reads	percent_mapped	num_duplicates	percent_duplicates	percent_properly_paired	mean_depth	covered_bases
+DR_23_666	809941152	796169280	0.9830	809970887	97.96	122154093	15.08	93.12	38.88	2169541816

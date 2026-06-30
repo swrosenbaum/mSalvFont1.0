@@ -1,0 +1,3 @@
+nextflow run curationpretext -profile singularity -params-file params.yaml
+
+Duration    : 19h 27m 51s

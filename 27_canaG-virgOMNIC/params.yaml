@@ -1,0 +1,10 @@
+input: "/mnt/beegfs/scratch/sr221061/g3_revisions/02_canaG-virgOMNIC/inputs/fCanada.chr.fa"
+cram:
+  - "/mnt/beegfs/scratch/sr221061/g3_revisions/02_canaG-virgOMNIC/inputs/cram/mSalvFont1.0.cram"
+sample: "canaG-virgOMNIC"
+teloseq: "TTAGGG"
+map_order: "length"
+skip_tracks: ALL
+outdir: "/mnt/beegfs/scratch/sr221061/g3_revisions/02_canaG-virgOMNIC/outputs/curationpretext"
+run_ultra: "yes"
+validate_params: false

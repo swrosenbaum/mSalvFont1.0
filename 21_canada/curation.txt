@@ -1,0 +1,14 @@
+NXF_OFFLINE=true nextflow run /mnt/beegfs/scratch/sr221061/curationpretext \
+--input /mnt/beegfs/scratch/sr221061/mSfon1.0/post-asm/08_post-naming/09_lecomte/outputs/reference/fCanada.chr.mod.fa \
+--skip_tracks 'coverage,repeat' \
+--cram /mnt/beegfs/scratch/sr221061/mSfon1.0/post-asm/08_post-naming/09_lecomte/outputs/cram/ \
+--reads /mnt/beegfs/scratch/sr221061/mSfon1.0/post-asm/08_post-naming/09_lecomte/outputs/fasta/ \
+--read_type "hifi" \
+--sample "lecomte" \
+--teloseq "TTAGGG" \
+--map_order "length" \
+--all_output true \
+--run_hires \
+--outdir /mnt/beegfs/scratch/sr221061/mSfon1.0/post-asm/08_post-naming/09_lecomte/outputs/curation \
+-profile singularity
+

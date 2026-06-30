@@ -1,0 +1,3 @@
+genome: /mnt/beegfs/scratch/sr221061/g3_revisions/05_ntSynt/inputs/mSalvFont1.0_chr_named.fa
+taxid: 8038
+short_reads: txid8038[Organism] AND PRJNA256998[BioProject] AND biomol_transcript[properties]

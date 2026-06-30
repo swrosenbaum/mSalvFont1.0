@@ -1,0 +1,2 @@
+sample_id,input_type,input,library_id,mark_duplicates
+DR_23_666,fastq,/mnt/beegfs/scratch/sr221061/g3_revisions/04_canaG-666/canaG-666/data/raw_reads/DR_23_666_1.fq.gz;/mnt/beegfs/scratch/sr221061/g3_revisions/04_canaG-666/canaG-666/data/raw_reads/DR_23_666_2.fq.gz,true

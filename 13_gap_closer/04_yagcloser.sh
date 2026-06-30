@@ -1,0 +1,13 @@
+python /mnt/beegfs/scratch/sr221061/mSfon1.0/post-asm/04_close-gaps/scripts/yagcloser/yagcloser.py \
+       -g /mnt/beegfs/scratch/sr221061/mSfon1.0/post-asm/02_decontaminate/mSalvFont1.1.primary.curated.decon.fa \
+       -a /mnt/beegfs/scratch/sr221061/mSfon1.0/post-asm/04_close-gaps/outputs/aln.s.bam \
+       -b /mnt/beegfs/scratch/sr221061/mSfon1.0/post-asm/04_close-gaps/outputs/mSalvFont1.gaps.bed \
+       -o /mnt/beegfs/scratch/sr221061/mSfon1.0/post-asm/04_close-gaps/outputs/yagcloser \
+       -f 20 \
+       -mins 2 \
+       -mcc 2 \
+       -prt 0.25 \
+       -eft 0.2 \
+       -pld 0.2 \
+       -s mSalvFont1 \
+       -l DEBUG

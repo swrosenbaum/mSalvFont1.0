@@ -1,0 +1,5 @@
+python3 ui/egapx.py param.yaml \
+                  -e singularity \
+                  -w /tmp/egapx \
+                  -o /mnt/beegfs/scratch/sr221061/g3_revisions/07_egapx/outputs
+

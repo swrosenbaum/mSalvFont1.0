@@ -1,0 +1,10 @@
+{
+  "summary": {
+    "before_filtering": {
+      "total_reads": 809941152
+    },
+    "after_filtering": {
+      "total_reads": 796169280
+    }
+  }
+}
